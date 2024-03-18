@@ -973,6 +973,7 @@
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/components/widgets/Header.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/components/widgets/OngletWidget.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/components/widgets/SettingSide.dart
+/Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/components/widgets/ValidateWidget.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/components/widgets/product_list_widget.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/RouterGenerator.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/models/IDataResponse.dart
@@ -981,10 +982,13 @@
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/states_manager/SimpleBlocObserver.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/states_manager/blocs/add_product_blocs.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/states_manager/blocs/list_product_bloc.dart
+/Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/states_manager/blocs/update_product_bloc.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/states_manager/events/add_product_events.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/states_manager/events/list_product_event.dart
+/Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/states_manager/events/update_product_event.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/states_manager/states/add_product_state.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/states_manager/states/list_product_state.dart
+/Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/core/states_manager/states/update_product_state.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/main.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/windows/home/HomeScreen.dart
 /Users/macbookpro/Desktop/FORMATION/Flutter/stock_app/lib/windows/menus/AddProdcut.dart
