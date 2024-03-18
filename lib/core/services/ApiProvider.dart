@@ -11,7 +11,7 @@ import '../RouterGenerator.dart';
 import '../models/IDataResponse.dart';
 
 class ApiProvider {
-  static const baseUrl = "http://localhost:3000/";
+  static const baseUrl = "https://stock-app-du2e.onrender.com/";
 
   static Future<void> registerUser(dynamic Adata) async {
     if (kDebugMode) {
